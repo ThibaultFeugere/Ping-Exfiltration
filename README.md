@@ -7,9 +7,9 @@ The goal is to send, step by step, an /etc/shadow file with ICMP request.
 
 It's where the ICMP Exfiltration gonna happen.
 
-## Server
+## Server
 
-It's where we gonna receive content of /etc/save_shadow file
+It's where we gonna receive content of `/etc/save_shadow` file
 
 ## Hash
 
